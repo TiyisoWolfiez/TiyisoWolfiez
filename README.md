@@ -152,7 +152,6 @@ Problem solver | Fast learner | Builder with intent
 ```
 
 <h2 align="center">GitHub Stats</h2>
-<h2 align="center">GitHub Stats</h2>
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a><img src="https://github-readme-stats.vercel.app/api?username=tiyisowolfiez&show_icons=true&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiyisowolfiez&layout=compact&langs_count=12&theme=transparent&hide_border=true"></a>

@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="./images/deadpool.jpg" alt="deadpool" style="width: 100%; height: 450px;" />
+  <img src="./images/breaking.jpg" alt="deadpool" style="width: auto; height: 450px;" />
 </p>
 
 

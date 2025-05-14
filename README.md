@@ -165,8 +165,8 @@ Problem solver | Fast learner | Builder with intent
 
 <h1 align=center>Contact Details</h1>
 
-- WhatsApp/Mobile: +27 71 226 7170
-- Email: tiyisoh6@gmail.com
+- `WhatsApp/Mobile`: +27 71 226 7170
+- `Email`: tiyisoh6@gmail.com
 - `LinkedIn Profile`: [tiyiso-hlungwani](https://www.linkedin.com/in/tiyiso-hlungwani-2722b3219/)
 
 ---
